@@ -114,7 +114,7 @@ export { firebase, database as default };
 //   "location/city": "Seatle",
 // });
 
-// // Same as remove
+// Same as remove
 // database.ref("isSingle").set(null);
 
 // database
